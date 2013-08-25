@@ -1,5 +1,5 @@
 % traffic_recognition.m
-%
+%	Giannhs Apostolidhs, giannhs.apostolidhs@gmail.com
 %	03/06/2013
 %
 
